@@ -438,7 +438,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Siddhivinayak Temple Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754774821/ei/xWiXaMq_LN6V2_gPzv-P0Qw/ip/64.236.141.178/id/MJl0Kt1shoM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AY1jyLNK3YOGysO2NQTCEuBohP75-_C9XRXWYt4nMbs628VzxLMY9QCeDaG7WPSbBWEjPrsBMgrYicIv/spc/l3OVKbpa9XZEScrUEAR4FtQMKDvwYK_wsUd1TCm6NvDKA5RFmJgZakI0yOLW95nGisg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKSZKwWjOA7bMOGE-f5g9Fa1yhkoXGoEukukV82T5m2ICIQCbL-t9DEhZY_NZTo58je4qlcux6QYv8oxh92YqaWVU3w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="" tvg-id="", News 18 Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
