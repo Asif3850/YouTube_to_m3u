@@ -642,7 +642,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", LIVE 24/7 Rolling Cam Venice - Live Cam in Venice Italy
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766775480/ei/WIZOaYuOGfuH-coP3I_3OA/ip/40.65.58.130/id/ph1vpnYIxJk.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3CRUghshxWTE3P0_oY4gjbSQ-hJyCdhYvqsBM1qu6IadylGPokqT_eJGuTPwk0LOENawdHSqO3A/spc/wH4Qq8X6lYzycgXJsE505lbMFLVT1A9KeD-Iu6ED5eoxm8DzjfifRorBKiaqxeqDSag/vprv/1/go/1/ns/gnEtGAVhEk441WY21PWTHNsR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/6WIm89ix2CriUaged6/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANqZur1G_wqlNySphUQTViODmH_LR8DN03LQr-xz3oLXAiEAy_M-1Wx60jowA2-ruSWUNQB7I0qmyPnD6JtAMplFif8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Deer Pantry "Trough View"
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
