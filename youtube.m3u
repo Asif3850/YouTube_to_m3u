@@ -411,7 +411,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", DC Kids live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767034765/ei/LXtSabyQMKTClu8PrsPmWA/ip/64.236.160.17/id/WGxdqnU4PTs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3DRcxrYgIlPivM_-nmqLlb8RMurGTYXidInoQsWBVcYvg9QddGKPEtAlplt1hl1I1Nc_d3GeLkr/spc/wH4Qq8M2SD4G_ZiqjymA5zStJf1wBvoEJ24K3usnW2MyVI6h5v9p494r4HRMjYkXb4w/vprv/1/go/1/ns/eZveqF8eEgiZinYbl8XZApMR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/pABny128eciBNq13Da/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTwhMlWrrSeZ6r0zItVpD_hEW9XWCRvppqDfhLmWmmL8CIQDWaTog82t0CTNMnN94W7TAmZSGaNB_k5SJgW-58wE_3Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://pbs.twimg.com/profile_images/1369214431268200453/JIj9kAeK_400x400.jpg" tvg-id="", Jai Maharashtra
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
