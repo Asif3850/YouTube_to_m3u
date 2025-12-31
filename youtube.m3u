@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="NDTVIndia.in", NDTV India
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767237914/ei/upRVae7FJo-szN0P5cee6QU/ip/52.159.247.52/id/MN8p-Vrn6G0.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3A6byOIHP8ETQBmEL8ckpdRJRPRMl5aFr6TLKH5kKqlSFFdHXXF8cUFIWXhkumlmUvwftNqeKoq/spc/wH4Qq1A7lKoV2_90KZr2cM6tuNrhwESLU9u--H8WtYxZxsPn7okayp1greviRO7t3EY/vprv/1/go/1/ns/CD24CHty8ZTvqFDbasbvwZIR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/Co_651BPsKtlb7n6X4/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHqui8ZCKaAinTlMwvsXwCu9XN9fKT8EQjq08QB-zxs8CIGshftqHCW3Q1_f3lJalD4hftkBYa-fwlxBc6z-lEbw_/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", IndiaTV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
