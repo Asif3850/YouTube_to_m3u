@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769540612/ei/pLd4aZqSNdLfybgP0-7KwA8/ip/64.236.133.103/id/8SXw7WUy8UM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_qKiOf0B4FaCYsn1chHntGVG5d3UgC7SuPUFanxF99bIzhv9EUSws22G2uKCaq_Rsn2WUc-mrNp/spc/q5xjPEyxhbTXQ6txCAUAnApPBLawC6KGwsiDRC2VNrcG29VYcyDeNH4wY6SrYpWmI6EJ4w/vprv/1/go/1/ns/0EnRkEA2pavxjSuWF7hL1sAS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/AVcw2k2diodASUE8/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgJ_1qgafv0hRdNJ1s3M7l03PQ0ue9TqQUcyHto0RnxQoCIQCFLFUH0O-qlfxhnc3NuZmar14osA23eCuTpjOxBEwVHQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -741,7 +741,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769540843/ei/i7h4aeanKu2Elu8Pqc7UUA/ip/64.236.133.103/id/bNyUyrR0PHo.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pw0M5mF7chq2ekjKaU-jBRF9izMQeVuRbruzWINZkQShysf7tSO54lCHodzjqN5gNqV3tEYrXv/spc/q5xjPIMUA2hfpUcuDrBcY3s2RDn6zFhf_YbQbj4c3x0ShuwNRXLwHGUfyyB2tu6SNLd4mA/vprv/1/go/1/ns/ZbHsjaGUbdlS72mS6vPHdLYS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/UXBQD6jr3TsZxzoA/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgM0mEvC4vaTIUelfOBNSf8JihN6d0FN2Jk9rVEO-_dTsCIQCWFXiRJE2x4O2JICNBUaT3Ef7Rml3c-c9OfAn3pY0_-w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera Mubasher
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
