@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772181372/ei/HAOhaaDDF_Wzlu8P8dvT4Q8/ip/64.236.169.113/id/YGEgelAiUf0.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AVNa5-wygf90OJR5BUgFxruohIMGJHlv2dA7EXJQ1FAIYCFF_kss-Nbt5guD4aIMURHA0vA405dAyeej/spc/6dlaFExSkmdCanVQ9tWgWAIMcDNFtjkrQGfL8xbwEqki8ajy3k_tzShXC8Faz-IPOoJOJw/vprv/1/go/1/ns/ce798hB3woNRP2KpgHtRUX0S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968%2C51791333%2C51801809/dover/11/n/elChxNXqrYt5lMH3/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgFYfK6UHFtiw8zWpV-AhGVah1jRp9c_xpv8n-xpFXlf4CICa1mG5n2zsihiskkmwZrYFKVK0GEL6rc_0JPo-PHoqz/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" tvg-id="", Media One News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772181379/ei/IwOhaZauFZ-Y-coP6a6tgQw/ip/64.236.169.113/id/u4bE_-vP-ZI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774350/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-yHyNTirfhR3zd20pO4EsflHqnFsqV31jDnTCwug4NZ5cCY-Su1ipNe5s0WSAKhkarGiXU5e5eV/spc/6dlaFOGc73UUQRQ-ckx2r3rM00oK88HoBzbdwcK6yKBYGK-UYvgpLlrKNLJ74nK4RhaJPw/vprv/1/go/1/ns/fwiww2VwMtacLqoO0420MrkS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565682%2C51580968%2C51791333%2C51801807/dover/11/n/7XR51OVgoxaEOYGb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAKe4dRJS20tmZfOuKl58TFICM3zbccaTBgu508OE4udKAiEA-R0Ea5HqHHgMPlRTxmNpNN3Es3tJABUcfoCKbhIR2n0%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png" tvg-id="673", News7 Tamil
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
