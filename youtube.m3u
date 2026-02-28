@@ -246,7 +246,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radio" tvg-logo="http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png" tvg-id="", Best Suffle Dance
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772267209/ei/aVKiabTzM4vHybgPxoLViAY/ip/52.161.82.96/id/qWf-FPFmVw0.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774350/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-ywvvSGSnOISQRyy0n4Mc8LKc_ezNH0D-H7UeNLOdqteQ1jNr-GsGBRJQeFRUfgOUlG0dmbkWbq/spc/6dlaFKecnDQlsx6bV3qRHtrLjwPNklkrhxqd_QnZag5Yij4qpl-Tc7u1FCx09cz2gjOKHw/vprv/1/go/1/ns/viXtBFm3nhI9ETI3WfeEdpcS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565682%2C51580968%2C51791333/dover/11/n/nhhOJc3EtaOnyZfk/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgCvdey8ZyFS8cXTMLhaDgXems42LsS0MoTrUPU1ky2S4CIB9OnmrRLQTQURM092T8IgAppbtXxdnUbMs07s4h0cnP/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://freepngimg.com/thumb/meditation/7-2-meditation-transparent.png" tvg-id="", Meditation Music
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
