@@ -528,7 +528,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taitung Duoliang Station Live Camera
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773104657/ei/sRmvaZrRKJzBir4P4ouy4Qo/ip/52.165.58.39/id/UCG1aXVO8H8.18/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-wlsEU34Geps96DLmjLyltshdAP2tQIyQbUA1JA5VXJPwDoOSHz_jx4NmkhLxnYL06kD44DOIHC/spc/6dlaFA3r8dA2ZKdoFTL5pAH_n3AI6Gpl6mQWEB_cG5OFs8Q_HuQC3IZvo8ndymQ-nJB-cw/vprv/1/go/1/ns/hPMAXX1thqIQ5GPA8vC_RPoT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/n/7a-zYpb_RTMP_Y0Xip/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAPzC233LQZUU-mmNxZuNNodeZtcavFYbyJNmXz05CsKrAiBh2EqeuGO8nX3ABVOyXQWqPCqtxPJjF06npU8c_kO9lw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Sanxiantai
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -585,7 +585,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Castelul Bran - Dracula's Castle - Casa din Bran
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773104680/ei/yBmvaZyCI9DoybgPxcK5gQM/ip/52.165.58.39/id/8hgQsI1CfsY.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-zgzRn85xMt9xo7F3z0MtIuk3E7nSrnk6-9ACNrDN357-UGXtn2IQG748qVV5eAYVp0pG3JiQkq/spc/6dlaFKTAgaicA-NbDS0N6GsQxsSFdJg_YkrE6xXKbJkjdVtQA8REk-GV2dDc5O95UXHyYQ/vprv/1/go/1/ns/CAFF0B-veoFsYQEWvB3lrRkT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/n/o91o0DvaDdAhOO61/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAOhrt1B7bf1qVn3lN2ymAxBCkIgIOeqVHc40l2irNZ4xAiEAvb4J1Px4_yuXfMOo-nf5rMv_3_4k0Ig9w-wTyMHHyqI%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Sanctuarul de ursi Libearty Zarnesti
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
