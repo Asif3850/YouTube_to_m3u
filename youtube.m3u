@@ -501,7 +501,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taiwan Kaohsiung Shoushan Lovers' Viewing Platform
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773601784/ei/mK-2abXsHfH_2_gP9-DpmQo/ip/172.215.231.115/id/C03Itx8iSC0.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794321/txs/51794319%2C51794320%2C51794321/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-xdYyj4-hqwMYMFMtZ26o2tfl-E_8ccscejzMnVKkfytWzy1ftGobAuJVP-U0j7UiCYecQaqVsc/spc/6dlaFKtfmK9_NwRkGVACSoYjFPQYf_kqXKkCjUAbz1xvwYFawXbPMSD4P-Hu0CJz_Syd9Q/vprv/1/go/1/ns/M184-wzCtkH9yUsL0ox4GqET/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/n/S1UXqcQ17hkF5D7ZpSs/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAMG5CqI1N4IFfMOlQYsL_93PqgYgpLU4IRQH_tcoAVXMAiEA246wRdc6_XlytDAJJF1rNrnRuVCYCRmiFtLpl22A7vo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taichung Wang Gao Liao
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
