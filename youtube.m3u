@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Roland Martin Unfiltered
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773573077/ei/dT-2aavACIOQ-coPjbG_QA/ip/172.208.153.16/id/I7dPShyDt0g.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774349/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-wOBDNkWwLLG0l62A0Frp9K17aCmay8Kj7RCDDGMgC404pwVjI_j8NwDrltbODRMm9e4p9nCc3-/spc/6dlaFDaWpP-lj_qjFblZN7eok4ZAXGDlDxO5L7ZOPA8Zy9rk8jLHPO7ibMY4a88oi8yJRQ/vprv/1/go/1/ns/97asEEu497QxlGiAuwJUGvcT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/2_YfZ44YdSAC5uIDJc1/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhALPQVcf6VKvy0eSiFeEbLlAN73V0wEKj5NbKZxJDnNEcAiEA3T5uF8bCTYulmu_4_qRKCir8bz5ULKFhjoQcK91eicE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Sky News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -207,7 +207,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Aaj Tak
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773573099/ei/iz-2aavRLYaNybgP9rDG6Qk/ip/172.208.153.16/id/Nq2wYlWFucg.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-zDqFmYF4QRy-ggm6kHY41_hvTk4gwy20lI1FFmpgTOLxUlnrTkjkNfIMLrnSOfkbCc2SefqVzW/spc/6dlaFLe-LcYdkOcGNX9K-8WQPZ0XlFuSrgclL6VlEasyRs2J670g3NMIHQ5mhUBgUiDadw/vprv/1/go/1/ns/DT_gyfmMWM1WkH61mfMs__wT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/n/MHTofHTvQnA0CjgKxxz/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAMSi8kY7lCWPKNmjGxtz5ba6ai1Ia_3pCkKYNn7FU3FOAiEAgnf4SP0u9YdKWDZZMQqr7TwIhNE2l28aQYzmq-hrMfY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Ibiza Summer Mix 2021
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
