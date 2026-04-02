@@ -189,7 +189,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Bhakthi TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775167522/ei/wpPOaYaNMvbdybgPnorj4QQ/ip/64.236.134.165/id/d0dB3kSCMmM.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGKMCzKWkbsNvWF42cwFSW8iXb9y0qpAtZuAXmgNGHSQxAQz72aJJtBmnUJOtszi1JRE1vM-UZZq/spc/jlWavXDyFu8xWx410nep_5cD_KPKKq4N3fh-nkHgRCaqXJQB1mnWIMrFKNnYmubH667e2g/vprv/1/go/1/ns/VORDINcuAwdZxk5MOCHWB7kT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/V6DKxzx2KU9MggPRo8/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAPkBAh7rauPGL0WpzkatUTOAkgvmslQ7vya9ngb84yutAiEAuVIaguUnTLTQGvmqbi1a25kiiAMPR4MQ_9mnmr4oWuI%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -327,7 +327,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775167569/ei/8ZPOaeq3IpfGybgPgu_j8AI/ip/64.236.134.165/id/Ijz24UY8R-E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51811607/txs/51811605%2C51811607/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGKhwUT8vpIsCpY267UdnbWDhuv6qoWcxp8FK9Rmb53IxVi_lKfJ2zwPh3jgmUgnjRe6OgtOe3JP/spc/jlWavXmmHhAPsFtV8qJVH9n_rNroSyGzEmOIShN77_F3gVB26jNObpIZQ2YQNczcPm4c1g/vprv/1/go/1/ns/xLFa3OC2AaKHt1tJLrUs1mET/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/os4_3EOmevd_f1wJy9/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgAeQU_7YUiTjidMCKu13nouaQViYT7AF7DjOWQyJNhhMCIHLeEG5CCICEizzMaxfzuuMMdrhw090k_VmWW3LigwHt/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
