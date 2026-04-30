@@ -462,7 +462,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Euronews
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1777608204/ei/rNHzacefFMuHir4P9f-kiQ4/ip/135.232.200.17/id/pykpO5kQJ98.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51875284/txs/51875283%2C51875284%2C51875285%2C51875286/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AbKmrwpiGIhxcXAroYndqLrkBcw-7JADEziIimS2L_J1IFcF8scBUkPKBhGdQmGGUbI8Y3ugQHu4R8fq/spc/96Xrvzy0TJsObR1jfHCytsQGFhVj7RxZdZwm71O8WwvhcaE0QO4_feo_Ell3xJBz_PktQw/vprv/1/go/1/ns/WAszKV6cDUgrQNHDHgDpcl0U/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/Kj-P91ZarYemTv89/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAPIUX5T5k1C1OUShccG0v5ei7oXurt170_nSfYY6kVKHAiAHnMiwB45dI-KMOLAc9anAVHXbMRTo36mlg4FzYLJ5DQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", Rangin Kaman
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -489,7 +489,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Al Jazeera
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1777608214/ei/ttHzaevYJauV2_gPsq2SiAQ/ip/135.232.200.17/id/gCNeDWCI0vo.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51875285/txs/51875283%2C51875284%2C51875285%2C51875286/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AbKmrwrcm1YpiiOrtgi6x3sQYA8Qm3QvGHht1G0dIAmptWtGDhvko-7rfY82y7JpKJl6ER9JK8yifBik/spc/96Xrv91F7wQOJQoJT7QE3eCho2irVqxp2Gpahelp-YD4XQfOED54qNYxsrIe-AxON_gdfw/vprv/1/go/1/ns/ifQ-O98H5-ZOuKTvVzCEyt4U/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/VaGY46t82HdHk_5a/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhANDjvUhsbXFXDpanjE6F_w99QSa_w36bJZik-yl6blKGAiBedoq37CEJJXJQx9sYO9mE1hqCP-2nAwndMWWOzZWHXA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.dribbble.com/users/3547568/screenshots/14395014/media/0b94c75b97182946d495f34c16eab987.jpg" tvg-id="", Hindi hits LOve
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
